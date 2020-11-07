@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "929499103885",
+    "firebase_url": "https://payo-internship-task.firebaseio.com",
+    "project_id": "payo-internship-task",
+    "storage_bucket": "payo-internship-task.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:929499103885:android:56bd13266f7bccdebfd8c4",
+        "android_client_info": {
+          "package_name": "com.aditya.internshiptask"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "929499103885-uluh937gkpnbt3rlo3dbiar8d09u3cac.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.aditya.internshiptask",
+            "certificate_hash": "70e5206c282099ca8961857875ceaa813fe5ea63"
+          }
+        },
+        {
+          "client_id": "929499103885-ruthpicv1e1on5le3jssoedr7uiki1sp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBGT9DQ6hMuV2PZ0KLmj5hpsYpjypy5GDw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "929499103885-ruthpicv1e1on5le3jssoedr7uiki1sp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

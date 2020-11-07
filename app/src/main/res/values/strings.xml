@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">Internship Task</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="log_in">Log In</string>
+    <string name="enter_your_email">Enter your email</string>
+    <string name="enter_your_password">Enter your password</string>
+    <string name="new_user">New User ?\t</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="existing_user_t">Existing User ?\t</string>
+    <string name="enter_your_first_name">Enter your first name</string>
+    <string name="enter_your_last_name">Enter your last name</string>
+    <string name="confirm_your_password">Confirm your password</string>
+    <string name="enter_your_mobile_number">Enter your mobile number</string>
+    <string name="enter_your_address">Enter your address</string>
+    <string name="home">Home</string>
+    <string name="profile">My Profile</string>
+    <string name="internship_task">Internship Task</string>
+    <string name="log_out">Log Out</string>
+    <string name="first_name">First Name</string>
+    <string name="aditya">Aditya</string>
+    <string name="last_name">Last Name</string>
+    <string name="pandey">Pandey</string>
+    <string name="e_mail">E-mail</string>
+    <string name="icgadi99_gmail_com">icgadi99@gmail.com</string>
+    <string name="mobile_number">Mobile Number</string>
+    <string name="_917837739217">+917837739217</string>
+    <string name="address">Address</string>
+    <string name="_16_f_sarabha_nagar_ludhiana">16-F, Sarabha Nagar, Ludhiana</string>
+    <string name="fetching_data">Fetching Data...</string>
+    <string name="sort_by">Sort by</string>
+    <string name="authenticating">Authenticating...</string>
+</resources>

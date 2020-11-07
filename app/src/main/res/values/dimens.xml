@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- dimensions -->
+    <dimen name="dimen_0">0dp</dimen>
+    <dimen name="dimen_1">1dp</dimen>
+    <dimen name="dimen_2">2dp</dimen>
+    <dimen name="dimen_4">4dp</dimen>
+    <dimen name="dimen_8">8dp</dimen>
+    <dimen name="dimen_12">12dp</dimen>
+    <dimen name="dimen_16">16dp</dimen>
+    <dimen name="dimen_20">20dp</dimen>
+    <dimen name="dimen_24">24dp</dimen>
+    <dimen name="dimen_28">28dp</dimen>
+    <dimen name="dimen_32">32dp</dimen>
+    <dimen name="dimen_36">36dp</dimen>
+    <dimen name="dimen_40">40dp</dimen>
+    <dimen name="dimen_48">48dp</dimen>
+    <dimen name="dimen_50">50dp</dimen>
+    <dimen name="dimen_54">54dp</dimen>
+    <dimen name="dimen_56">56dp</dimen>
+    <dimen name="dimen_60">60dp</dimen>
+    <dimen name="dimen_64">64dp</dimen>
+    <dimen name="dimen_70">70dp</dimen>
+    <dimen name="dimen_78">78dp</dimen>
+    <dimen name="dimen_84">84dp</dimen>
+    <dimen name="dimen_94">94dp</dimen>
+
+    <!-- text sizes -->
+    <dimen name="dimen_text_4">4sp</dimen>
+    <dimen name="dimen_text_8">8sp</dimen>
+    <dimen name="dimen_text_12">12sp</dimen>
+    <dimen name="dimen_text_14">14sp</dimen>
+    <dimen name="dimen_text_15">15sp</dimen>
+    <dimen name="dimen_text_16">16sp</dimen>
+    <dimen name="dimen_text_20">20sp</dimen>
+    <dimen name="dimen_text_24">24sp</dimen>
+    <dimen name="dimen_text_28">28sp</dimen>
+    <dimen name="dimen_text_32">32sp</dimen>
+    <dimen name="dimen_text_40">40sp</dimen>
+
+</resources>
